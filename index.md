@@ -12,7 +12,7 @@
 ### PCB Design
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)-->
-<img src="images/pcb.png?raw=true"/>
+<img src="images/pcb.PNG?raw=true"/>
 
 ---
 <!--
