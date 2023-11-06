@@ -8,8 +8,11 @@
 <img src="images/opengl-gps.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### PCB Design
+
+<!--[Project 2 Title](/pdf/sample_presentation.pdf)-->
+<img src="images/pcb.png?raw=true"/>
 
 ---
 <!--
