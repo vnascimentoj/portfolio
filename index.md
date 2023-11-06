@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### OpenGL 3D GPS 
 
-[OpenGL 3D GPS](/sample_page)
+<!--[OpenGL 3D GPS](/sample_page)-->
 <img src="images/opengl-gps.gif?raw=true"/>
 
 ---
