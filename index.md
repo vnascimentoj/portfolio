@@ -9,16 +9,16 @@
 
 ---
 
+### Shapefile Viewer
+
+<img src="images/shapefileViewer.png?raw=true"/>
+
+---
+
 ### PCB Design
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)-->
 <img src="images/pcb.PNG?raw=true"/>
-
----
-
-### Shapefile Viewer
-
-<img src="images/shapefileViewer.png?raw=true"/>
 
 ---
 <!--
