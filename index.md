@@ -9,7 +9,7 @@
 
 ---
 
-### Shapefile Viewer
+### Shapefile Viewer - Qt
 
 <img src="images/shapefileViewer.png?raw=true"/>
 
